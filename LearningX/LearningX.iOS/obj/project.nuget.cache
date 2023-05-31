@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeuWj0ULjC5JEWuWYRBPNZH9iM48h5wKaUpv7GPIqxXXQswyJi4s8tGQ8ZmgMRls0PzFYphNGXmBB1/pxVcyJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vtche\\source\\repos\\Chernousovs\\XamarinLessons\\LearningX\\LearningX.iOS\\LearningX.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vtche\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vtche\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\vtche\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
