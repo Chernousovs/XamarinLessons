@@ -10,7 +10,7 @@ namespace LearningX
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new GridPage();
         }
 
         protected override void OnStart()

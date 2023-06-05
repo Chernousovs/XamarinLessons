@@ -1,0 +1,16 @@
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\bin\Debug\netstandard2.0\LearningX.deps.json
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\bin\Debug\netstandard2.0\LearningX.dll
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\bin\Debug\netstandard2.0\ref\LearningX.dll
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\bin\Debug\netstandard2.0\LearningX.pdb
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\LearningX.csproj.AssemblyReference.cache
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\LearningX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\LearningX.AssemblyInfoInputs.cache
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\LearningX.AssemblyInfo.cs
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\LearningX.csproj.CoreCompileInputs.cache
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\LearningX.dll
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\refint\LearningX.dll
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\LearningX.pdb
+C:\Users\vtche\source\repos\Chernousovs\XamarinLessons\LearningX\LearningX\obj\Debug\netstandard2.0\GridPage.xaml.g.cs
